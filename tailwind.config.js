@@ -3,6 +3,14 @@ module.exports = {
   darkMode: 'class' ,// or 'media' or 'class'
   theme: {
     extend: {
+      backgroundColor: {
+        'primary': '#2E2F2F',
+        'secondary': '#FEFEFD',
+      },
+      textColor: {
+        'primary': '#2E2F2F',
+        'secondary': '#FEFEFD',
+      },
       fontFamily: {
         'primary': ['Poppins', 'sans-serif'],
       }
