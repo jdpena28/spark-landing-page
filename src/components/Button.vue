@@ -1,5 +1,5 @@
 <template>
-    <button type="button" class="w-full h-16 col-span-2 -mx-4 font-primary">{{btn}}</button>
+    <button type="button" class="w-48 h-16 font-primary">{{btn}}</button>
 </template>
 
 <script lang="ts">
