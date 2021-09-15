@@ -15,7 +15,7 @@ module.exports = {
         'primary': ['Poppins', 'sans-serif'],
       },
       fontSize: {
-        '10xl': '8.5rem'
+        '10xl': '9rem'
       }
     },
   },
