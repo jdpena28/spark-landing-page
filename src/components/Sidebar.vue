@@ -26,8 +26,10 @@ export default ({
     name: 'Sidebar',
     prop: [],
     component: {},
-    data() { 
-        
+    data () { 
+        return {
+
+        }   
     },
 })
 </script>
