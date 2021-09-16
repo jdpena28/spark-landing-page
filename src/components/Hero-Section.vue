@@ -1,6 +1,6 @@
 <template>
-      <section id="hero" class="flex-1 flex h-screen w-full bg-black pt-6">
-          <div class="container mx-20 grid grid-cols-10 gap-x-8">
+      <section id="hero" class="flex h-screen w-full bg-background pt-6">
+          <div class="container mx-32 grid grid-cols-10 gap-x-8">
             <img src="../assets/spark.png" alt="Spark Logo"     class = "col-span-2 -mt-10 -ml-11">
             <div class="col-start-4 col-span-8 flex gap-x-5">
             <Principles :class = "principleClass"
