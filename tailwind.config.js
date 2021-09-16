@@ -6,6 +6,8 @@ module.exports = {
       backgroundColor: {
         'primary': '#2E2F2F',
         'secondary': '#FEFEFD',
+        'background': '#1B1B1B',
+        'background2': '#252525',
       },
       textColor: {
         'primary': '#2E2F2F',
@@ -16,6 +18,9 @@ module.exports = {
       },
       fontSize: {
         '10xl': '9rem'
+      },
+      borderWidth: {
+        '1':'1px',
       }
     },
   },
