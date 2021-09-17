@@ -14,7 +14,7 @@ module.exports = {
         'secondary': '#FEFEFD',
       },
       fontFamily: {
-        'primary': ['Poppins', 'sans-serif'],
+        'primary': ['Raleway', 'sans-serif'],
       },
       fontSize: {
         '10xl': '9rem'
