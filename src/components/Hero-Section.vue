@@ -30,12 +30,26 @@
             </div>
         </div>
       </section>
+      <div id="faq" class="font-serif text-yellow-400">FAQ</div>
 </template>
 
 <style scoped>
 .big-text {
     font-size: 11rem;
     line-height: 1
+}
+#faq {
+    position:absolute;
+    top:1.4rem;
+    right:1.1rem;
+    height: 60px;
+    width: 60px;
+    line-height: 3.4;
+    text-align: center;
+    border-width: 2px;
+    border-radius: 50%;
+
+    border-color: rgb(251, 191, 36)
 }
 
 </style>
