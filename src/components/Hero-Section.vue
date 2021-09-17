@@ -23,14 +23,22 @@
                     <Button class ="text-white border-white border-2" btn = "Request a Quote"/>
                 </div>
                 <div class="col-start-4 col-span-8 font-primary font-extrabold ">
-                    <h3 class="text-white tracking-wide text-9xl">Make</h3>
-                    <h3 class="bg-yellow-400 tracking-wide text-9xl">Leaders</h3>
+                    <h3 class="text-white tracking-wide big-text">Make</h3>
+                    <h3 class="bg-yellow-400 tracking-wide big-text">Leaders</h3>
                     <p class="text-white text-xl font-normal mt-3 w-max border-b-2 border-yellow-400 pb-2"><i>Consulting made to help leaders like you pursue success.</i></p>
                 </div>
             </div>
         </div>
       </section>
 </template>
+
+<style scoped>
+.big-text {
+    font-size: 11rem;
+    line-height: 1
+}
+
+</style>
 
 
 <script>
