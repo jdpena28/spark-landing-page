@@ -6,6 +6,7 @@
         <Hero/>
         <Overview/>
         <Testimonial/>
+        <Mission/>
     </div>
 </div>
 </template>
@@ -17,10 +18,11 @@ import Sidebar from "./components/Sidebar.vue"
 import Hero from "./components/Hero-Section.vue"
 import Overview from "./components/Overview-Section.vue"
 import Testimonial from "./components/Testimonial-Section.vue"
+import Mission from "./components/Mission-Section.vue"
 
 export default {
     name: 'App', /* app component name */
-    components: {Sidebar,Hero,Overview,Testimonial}, /* component to be imported inside the app */
+    components: {Sidebar,Hero,Overview,Testimonial,Mission}, /* component to be imported inside the app */
     data () {
         return {
             /* all data inserted in the component */
