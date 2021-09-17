@@ -18,12 +18,13 @@
 
 <script lang="ts">
 
-export default ({
+export default({
     name: 'Overview',
+    props:[],
     data () {
-        return {
+       return {
 
-        }
-    },
+       }
+    }
 })
 </script>
