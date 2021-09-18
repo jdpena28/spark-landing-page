@@ -1,7 +1,7 @@
 <template>
 <!--this is the root component of Vue -->
 <div class = 'flex'>
-<Sidebar class = "fixed l-0 t-0"/>  
+<Sidebar/>  
     <div>
         <Hero/>
         <Overview/>
