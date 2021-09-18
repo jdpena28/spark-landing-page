@@ -41,10 +41,10 @@
 #faq {
     position:absolute;
     top:1.4rem;
-    right:1.1rem;
-    height: 60px;
-    width: 60px;
-    line-height: 3.4;
+    right:2.4rem;
+    height: 50px;
+    width: 50px;
+    line-height: 2.8;
     text-align: center;
     border-width: 2px;
     border-radius: 50%;
