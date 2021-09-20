@@ -17,13 +17,13 @@
  }
 </style>
 
-<script lang="ts">
+<script>
 export default ({
     name: 'TestimonialCard',
-    props: {
-        src_picture: String,
-        alt_picture: String,
-    },
+    props: [
+        'src_picture',
+        'alt_picture',
+    ],
     data () {
         return {
         }

@@ -22,7 +22,7 @@
 </style>
 
 
-<script lang="ts">
+<script>
 import Button from "./Button.vue"
 
 export default ({

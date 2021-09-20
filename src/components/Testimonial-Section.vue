@@ -7,7 +7,7 @@
                 <h3 class="text-6xl bg-yellow-400 w-max p-2"><i>for leaders</i></h3>
             </div>                          
                                         <!-- fixed the folder here -->
-            <TestimonialCard src_picture = 'src\assets\portrait.jpg' 
+            <TestimonialCard src_picture = "src\assets\portrait.jpg" 
             alt_picture = 'Portait photo'/>
         </div>
         <div class="col-start-6 col-span-5">

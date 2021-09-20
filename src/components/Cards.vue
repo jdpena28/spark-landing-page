@@ -6,14 +6,10 @@
 </div>
 </template> 
 
-<script lang="ts">
+<script>
 export default ({
     name: 'Card',
-    props: {
-        num: String,
-        title: String,
-        text: String,
-    },
+    props:['num','title','text'],
     data () {
 
     },

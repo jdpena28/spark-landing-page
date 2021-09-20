@@ -6,10 +6,12 @@
     </div>
 </template>
 
-<script lang="ts">
+<script>
 export default({
     name: 'Principles',
-    props:['principles','phrase','num'],
+    props:['principles',
+            'phrase',
+            'num'],
     data () {
        return {
 
