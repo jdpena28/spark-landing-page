@@ -40,7 +40,7 @@
 </style>
 
 
-<script lang="ts">
+<script>
 import Card from "./Cards.vue"
 
 export default({

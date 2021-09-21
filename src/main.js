@@ -1,5 +1,5 @@
-import { createApp } from 'vue';
-import App from './App.vue';
-import './index.css';
-createApp(App).mount('#app');
-//# sourceMappingURL=main.js.map
+import { createApp } from 'vue'
+import App from './App.vue'
+import './index.css'
+
+createApp(App).mount('#app')

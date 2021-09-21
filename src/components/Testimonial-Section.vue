@@ -7,7 +7,7 @@
                 <h3 class="text-6xl bg-yellow-400 w-max p-2"><i>for leaders</i></h3>
             </div>                          
                                         <!-- fixed the folder here -->
-            <TestimonialCard src_picture = "src\assets\portrait.jpg" 
+            <TestimonialCard src_picture = "https://images.unsplash.com/photo-1542909168-6296a31d7689?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" 
             alt_picture = 'Portait photo'/>
         </div>
         <div class="col-start-6 col-span-5">
@@ -17,7 +17,7 @@
     </section>
 </template>
 
-<script lang="ts">
+<script>
 import TestimonialCard from "./Testimonial-Card.vue"
 
 

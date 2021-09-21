@@ -16,7 +16,7 @@
 
 
 
-<script lang = 'ts'>
+<script>
 import Sidebar from "./components/Sidebar.vue"
 import Hero from "./components/Hero-Section.vue"
 import Overview from "./components/Overview-Section.vue"
